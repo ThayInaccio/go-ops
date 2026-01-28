@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: thayinaccio/gitopsfc
-  newTag: c5bf1529b28956603a390bea44f8669f962a5c32
+  newTag: 5c70751089053daa1a969584927065766ecced44
